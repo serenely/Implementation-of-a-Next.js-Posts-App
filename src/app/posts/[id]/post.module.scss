@@ -1,0 +1,28 @@
+
+.postContainer {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+    h1 {
+      color: #333;
+      margin-bottom: 15px;
+    }
+  
+    p {
+      color: #555;
+      line-height: 1.6;
+    }
+  
+    a {
+      display: inline-block;
+      margin-top: 15px;
+      color: #0070f3;
+      &:hover {
+        color: #005bb5;
+      }
+    }
+  }
+  
